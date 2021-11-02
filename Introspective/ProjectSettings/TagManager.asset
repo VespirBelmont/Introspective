@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Damage
+  - Environment
+  - Deactivator
+  - NPC
+  - Wall
+  - Boundary
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wall
+  - Boundary
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Player
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1684615137
+    locked: 0
+  - name: PlayTiles
+    uniqueID: 3449543885
+    locked: 0
+  - name: CarExterior
+    uniqueID: 1877008575
+    locked: 0
+  - name: Bridge
+    uniqueID: 3892902873
+    locked: 0
+  - name: Characters
+    uniqueID: 3233951739
+    locked: 0
+  - name: BridgeForground
+    uniqueID: 1640727977
+    locked: 0
